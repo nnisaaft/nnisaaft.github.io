@@ -1,0 +1,30 @@
+body{
+    background-color:
+     rgb(243, 176, 202);}
+     
+p {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;}
+h2 {
+    color: rgb(16, 71, 105);
+    margin-left: 20px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin-top: 150px;
+} 
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+ text-align: center;
+ padding: 8px;
+}
+img{
+    width: 576px;
+    height: 324px;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+}
